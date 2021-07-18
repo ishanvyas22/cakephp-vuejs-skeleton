@@ -1,6 +1,6 @@
 # CakePHP + Vue.js Application Skeleton
 
-This is full source code from __POST_URL__ post.
+This is full source code from https://ishanvyas.hashnode.dev/integrate-vuejs-with-cakephp-framework post.
 
 ## ❤️  Support Me
 **Do you like this project? Support it by donating:**
