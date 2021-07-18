@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello world!
+    Welcome to CakePHP + Vue.js world!
   </div>
 </template>
 
