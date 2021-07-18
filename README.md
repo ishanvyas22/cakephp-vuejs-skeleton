@@ -16,3 +16,9 @@ This is sample code from __POST_URL__ post.
 **or** [Paypal me](https://paypal.me/IshanVyas?locale.x=en_GB)
 
 **or** [![Contact me on Codementor](https://www.codementor.io/m-badges/isvyas/get-help.svg)](https://www.codementor.io/@isvyas?refer=badge)
+
+### Follow me
+- [GitHub](https://github.com/ishanvyas22)
+- [Instagram](https://www.instagram.com/ishancodes)
+- [LinkedIn](https://www.linkedin.com/in/ishan-vyas-314111112)
+- [Twitter](https://twitter.com/ishanvyas22)
